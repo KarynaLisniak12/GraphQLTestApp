@@ -1,0 +1,14 @@
+E:\Projects\GraphQLApp\GraphQLApp\bin\Debug\netcoreapp2.2\GraphQLApp.deps.json
+E:\Projects\GraphQLApp\GraphQLApp\bin\Debug\netcoreapp2.2\GraphQLApp.runtimeconfig.json
+E:\Projects\GraphQLApp\GraphQLApp\bin\Debug\netcoreapp2.2\GraphQLApp.runtimeconfig.dev.json
+E:\Projects\GraphQLApp\GraphQLApp\bin\Debug\netcoreapp2.2\GraphQLApp.dll
+E:\Projects\GraphQLApp\GraphQLApp\obj\Debug\netcoreapp2.2\GraphQLApp.csprojAssemblyReference.cache
+E:\Projects\GraphQLApp\GraphQLApp\obj\Debug\netcoreapp2.2\GraphQLApp.csproj.CoreCompileInputs.cache
+E:\Projects\GraphQLApp\GraphQLApp\obj\Debug\netcoreapp2.2\GraphQLApp.RazorAssemblyInfo.cache
+E:\Projects\GraphQLApp\GraphQLApp\obj\Debug\netcoreapp2.2\GraphQLApp.RazorAssemblyInfo.cs
+E:\Projects\GraphQLApp\GraphQLApp\obj\Debug\netcoreapp2.2\GraphQLApp.AssemblyInfoInputs.cache
+E:\Projects\GraphQLApp\GraphQLApp\obj\Debug\netcoreapp2.2\GraphQLApp.AssemblyInfo.cs
+E:\Projects\GraphQLApp\GraphQLApp\obj\Debug\netcoreapp2.2\GraphQLApp.RazorTargetAssemblyInfo.cache
+E:\Projects\GraphQLApp\GraphQLApp\bin\Debug\netcoreapp2.2\GraphQLApp.pdb
+E:\Projects\GraphQLApp\GraphQLApp\obj\Debug\netcoreapp2.2\GraphQLApp.dll
+E:\Projects\GraphQLApp\GraphQLApp\obj\Debug\netcoreapp2.2\GraphQLApp.pdb
